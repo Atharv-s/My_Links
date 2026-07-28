@@ -10,7 +10,7 @@ int main()
     string place = "Spot 18 mall entrance or first floor";
     string description = "Spot 18 mall entrance or first floor";
     string mapUrl = "https://osm.org/go/y2Q~gWVfd?way=360242727";
-    string updateTime = "28-07-2026 6:00 PM IST";
+    string updateTime = "28-07-2026 7:00 PM IST";
 
     cout << "📍 Location Update" << endl;
     cout << "--------------------------" << endl;
