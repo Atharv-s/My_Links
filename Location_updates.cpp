@@ -17,9 +17,7 @@ int main()
     cout << "Description: " << description << endl;
     cout << "Time: " << updateTime << endl;
     cout << "Map Link: " << mapUrl << endl;
-cout << "building 	commercial
-building:levels 	6
-name 	Spot 18";
+    cout << "Details - building 	commercial building:levels 	6 name 	Spot 18";
 
     return 0;
 }
