@@ -10,3 +10,4 @@ Telegram : https://t.me/Atharv9449
 Soundcloud : https://soundcloud.com/Deepseekbeaver
 My Metamask ETH wallet accepting donations: 0x3723f7Ac74b1fA109EeEC30609723151440cf938
 mail: deepseekbeaver@protonmail.me
+NFT : https://thirdweb.com/sepolia/0xa3788EE0944A650103504A124cb424Db6951E53D
